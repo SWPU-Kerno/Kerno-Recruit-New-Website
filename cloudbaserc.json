@@ -10,6 +10,7 @@
             "website": {
                 "use": "@cloudbase/framework-plugin-website",
                 "inputs": {
+                    "installCommand": "yarn install",
                     "outputPath": "./src"
                 }
             }
