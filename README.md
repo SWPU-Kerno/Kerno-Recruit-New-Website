@@ -1,7 +1,10 @@
-# 团队门户网站
-> 初代版本
+# Kerno-Recruit-New-Website
+
+西南石油大学,酷诺软件外包团队门户网站
 
 ## 后续计划
+* [x] 部署上线 - [腾讯云:静态网站托管](https://cloud.tencent.com/document/product/876/40270)
+* [ ] 接入Github Action
 * [ ] 内容更新
 * [ ] 模块化+配置化
 * [ ] 安排维护人员
